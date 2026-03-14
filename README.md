@@ -27,7 +27,7 @@
 ---
 
 ## 📂 Projects
-- Gesture Controlled Car
+- [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 - C++ Mini Projects Lab
 - CS50 Problem Sets
 - Web Apps by Google AI Studio
