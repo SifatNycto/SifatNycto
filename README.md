@@ -41,10 +41,10 @@
 
 ## 🌍 Find Me Online
 
-- <img src="https://cdn.simpleicons.org/linkedin" width="20"> [LinkedIn](https://linkedin.com/in/mehedihasan-sifat)
-- <img src="https://cdn.simpleicons.org/x" width="20"> [X (Twitter)](https://x.com/SifatNyctophile)
-- <img src="https://cdn.simpleicons.org/facebook" width="20"> [Facebook](https://www.facebook.com/sifat.nycto)
-- <img src="https://cdn.simpleicons.org/instagram" width="20"> [Instagram](https://www.instagram.com/sifat.nycto)
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"> [LinkedIn](https://linkedin.com/in/mehedihasan-sifat)
+- <img src="https://cdn.simpleicons.org/x/FFFFFF" width="20"> [X (Twitter)](https://x.com/SifatNyctophile)
+- <img src="https://cdn.simpleicons.org/facebook/1877F2" width="20"> [Facebook](https://www.facebook.com/sifat.nycto)
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20"> [Instagram](https://www.instagram.com/sifat.nycto)
 
 ---
 
