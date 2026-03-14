@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
