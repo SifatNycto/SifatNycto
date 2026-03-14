@@ -40,10 +40,11 @@
 ---
 
 ## 🌍 Find Me Online
-- [LinkedIn](https://linkedin.com/in/mehedihasan-sifat)
-- [X (Twitter)](https://x.com/SifatNyctophile)
-- [Facebook](https://www.facebook.com/sifat.nycto)
-- [Instagram](https://www.instagram.com/sifat.nycto)
+
+- <img src="https://cdn.simpleicons.org/linkedin" width="20"> [LinkedIn](https://linkedin.com/in/mehedihasan-sifat)
+- <img src="https://cdn.simpleicons.org/x" width="20"> [X (Twitter)](https://x.com/SifatNyctophile)
+- <img src="https://cdn.simpleicons.org/facebook" width="20"> [Facebook](https://www.facebook.com/sifat.nycto)
+- <img src="https://cdn.simpleicons.org/instagram" width="20"> [Instagram](https://www.instagram.com/sifat.nycto)
 
 ---
 
