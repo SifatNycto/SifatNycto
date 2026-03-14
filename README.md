@@ -41,10 +41,10 @@
 
 ## 🌍 Find Me Online
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; position: relative; top: 2px;"> <a href="https://linkedin.com/in/mehedihasan-sifat">LinkedIn</a>
-- <img src="https://cdn.simpleicons.org/x/FFFFFF" width="20" style="vertical-align: middle; position: relative; top: 2px;"> <a href="https://x.com/SifatNyctophile">X (Twitter)</a>
-- <img src="https://cdn.simpleicons.org/facebook/1877F2" width="20" style="vertical-align: middle; position: relative; top: 2px;"> <a href="https://www.facebook.com/sifat.nycto">Facebook</a>
-- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" style="vertical-align: middle; position: relative; top: 2px;"> <a href="https://www.instagram.com/sifat.nycto">Instagram</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle;"> <a href="https://linkedin.com/in/mehedihasan-sifat">LinkedIn</a>
+- <img src="https://cdn.simpleicons.org/x/FFFFFF" width="20" style="vertical-align: middle;"> <a href="https://x.com/SifatNyctophile">X (Twitter)</a>
+- <img src="https://cdn.simpleicons.org/facebook/1877F2" width="20" style="vertical-align: middle;"> <a href="https://www.facebook.com/sifat.nycto">Facebook</a>
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" style="vertical-align: middle;"> <a href="https://www.instagram.com/sifat.nycto">Instagram</a>
 
 ---
 
