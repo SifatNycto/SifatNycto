@@ -4,8 +4,10 @@
 💻 Learning C and C++  
 📚 Currently learning CS50  
 🌙 Nyctophile who loves coding at night  
-
+```
 while(!expert) { learn(); code(); build(); }
+```
+
 ---
 
 ## 🚀 Skills
