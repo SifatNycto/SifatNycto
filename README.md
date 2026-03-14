@@ -5,6 +5,7 @@
 📚 Currently learning CS50  
 🌙 Nyctophile who loves coding at night  
 
+while(!expert) { learn(); code(); build(); }
 ---
 
 ## 🚀 Skills
@@ -12,7 +13,7 @@
 - C++
 - Git
 - Arduino
-- Problem Solving (beginner)
+- Problem Solving (Beginner)
 
 ---
 
@@ -20,30 +21,40 @@
 - CS50x
 - Data Structures
 - Algorithms
-- Object Oriented Programming
+- Object-Oriented Programming
 - STL
 - Python
 
 ---
 
-## 📂 Projects
-- [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
-- [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
-  - [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
-  - [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
-  - [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
-  - [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
-- [Web Apps by Google AI Studio](https://github.com/SifatNycto/AI_made_things)
-- CS50 Problem Sets
+## 📂 Featured Projects
+
+### 🔹 Gesture Controlled Car
+- https://github.com/SifatNycto/gesture-controlled-car
+
+### 🔹 Mini Projects Lab
+- https://github.com/SifatNycto/mini-projects-lab
+
+Projects included:
+- [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
+- [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
+- [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
+- [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
+
+### 🔹 Web Apps by Google AI Studio
+- https://github.com/SifatNycto/AI_made_things
+
+### 🔹 CS50 Problem Sets
+- Practice solutions from the CS50 course
 
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/SifatNycto
-- LinkedIn: https://linkedin.com/in/mehedihasan-sifat
-- X: https://x.com/SifatNyctophile
-- Facebook: https://www.facebook.com/sifat.nycto
-- Instagram: https://www.instagram.com/sifat.nycto
+- GitHub: https://github.com/SifatNycto  
+- LinkedIn: https://linkedin.com/in/mehedihasan-sifat  
+- X (Twitter): https://x.com/SifatNyctophile  
+- Facebook: https://www.facebook.com/sifat.nycto  
+- Instagram: https://www.instagram.com/sifat.nycto  
 
 ---
 
