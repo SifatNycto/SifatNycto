@@ -1,0 +1,40 @@
+# Hi 👋 I'm Mehedi Hasan Sifat
+
+💻 C / C++ Developer  
+📚 Currently learning CS50  
+🌙 Nyctophile who loves coding at night  
+
+---
+
+## 🚀 Skills
+- C
+- C++
+- Git
+- Arduino
+
+---
+
+## 📚 Currently Learning
+- CS50x
+- Data Structures
+- Algorithms
+- Object Oriented Programming
+- STL
+- Python
+
+---
+
+## 📂 Projects
+- Gesture Controlled Car
+- C++ Mini Projects Lab
+- CS50 Problem Sets
+- Web Apps by Google AI Studio
+
+---
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/SifatNycto
+- LinkedIn: https://linkedin.com/in/mehedihasan-sifat
+- X: https://x.com/SifatNyctophile
+- Facebook: https://www.facebook.com/sifat.nycto
+- Instagram: https://www.instagram.com/sifat.nycto
