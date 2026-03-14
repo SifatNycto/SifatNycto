@@ -28,9 +28,9 @@
 
 ## 📂 Projects
 - [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
-- C++ Mini Projects Lab
+- [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
+- [Web Apps by Google AI Studio](https://github.com/SifatNycto/AI_made_things)
 - CS50 Problem Sets
-- Web Apps by Google AI Studio
 
 ---
 
