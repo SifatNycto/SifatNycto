@@ -1,6 +1,7 @@
 # Hi 👋 I'm Mehedi Hasan Sifat
 
-💻 C / C++ Developer  
+🎓 CSE Student  
+💻 Learning C and C++  
 📚 Currently learning CS50  
 🌙 Nyctophile who loves coding at night  
 
@@ -11,6 +12,7 @@
 - C++
 - Git
 - Arduino
+- Problem Solving (beginner)
 
 ---
 
