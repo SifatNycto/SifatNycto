@@ -29,6 +29,7 @@
 ## 📂 Projects
 - [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 - [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
+  - Banking System
 - [Web Apps by Google AI Studio](https://github.com/SifatNycto/AI_made_things)
 - CS50 Problem Sets
 
