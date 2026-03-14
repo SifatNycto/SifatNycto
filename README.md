@@ -48,3 +48,7 @@
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=tokyonight)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=tokyonight)
