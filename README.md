@@ -39,12 +39,11 @@
 
 ---
 
-## 🌐 Connect With Me
-- GitHub: https://github.com/SifatNycto
-- LinkedIn: https://linkedin.com/in/mehedihasan-sifat
-- X: https://x.com/SifatNyctophile
-- Facebook: https://www.facebook.com/sifat.nycto
-- Instagram: https://www.instagram.com/sifat.nycto
+## 🌍 Find Me Online
+- [LinkedIn](https://linkedin.com/in/mehedihasan-sifat)
+- [X (Twitter)](https://x.com/SifatNyctophile)
+- [Facebook](https://www.facebook.com/sifat.nycto)
+- [Instagram](https://www.instagram.com/sifat.nycto)
 
 ---
 
