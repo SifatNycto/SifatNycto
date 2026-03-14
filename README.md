@@ -29,7 +29,10 @@
 ## 📂 Projects
 - [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 - [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
-  - Banking System
+  -- [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
+  -- [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
+  -- [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
+  -- [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
 - [Web Apps by Google AI Studio](https://github.com/SifatNycto/AI_made_things)
 - CS50 Problem Sets
 
@@ -43,7 +46,7 @@
 - Instagram: https://www.instagram.com/sifat.nycto
 
 ---
-```
+
 ## 📊 GitHub Stats
 
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
@@ -51,4 +54,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=tokyonight)
-```
