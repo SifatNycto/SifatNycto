@@ -2,13 +2,7 @@
 
 ### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
 
-🌙 Nyctophile — I love coding at night 
-
-while (!expert) {
-    learn();
-    code();
-    build();
-}
+``` while(!expert) { learn(); code(); build(); } ```
 
 ---
 
