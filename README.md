@@ -1,10 +1,10 @@
-# 💫 About Me:
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
 🎓 CSE Student  
 💻 Passionate about programming and problem solving  
 🚀 Currently learning **C, C++ & CS50**  
 🌙 Nyctophile — I love coding at night 
+
 ``` while(!expert) { learn(); code(); build(); } ```
 
 ---
