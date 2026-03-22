@@ -1,10 +1,14 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
-### 💻 CSE Student | Aspiring Software Engineer | Problem Solver | Beginner Competitive Programmer | AI/ML Enthusiast
+### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
 
 🌙 Nyctophile — I love coding at night 
 
-``` while(!expert) { learn(); code(); build(); } ```
+while (!expert) {
+    learn();
+    code();
+    build();
+}
 
 ---
 
@@ -13,7 +17,7 @@
 - C++
 - Git
 - Arduino
-- Problem Solving (beginner)
+- Problem Solving (Learning & Improving)
 
 ---
 ## 🧠 Learning & Focus
@@ -28,10 +32,10 @@
 
 ## 📂 Projects
 ### 🔬 Mini Projects Lab  
-- 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system) – Console-based banking simulation  
-- 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator) – Calculates academic results  
-- 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game) – Logic-based logic game  
-- ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors) – Interactive command-line game  
+- 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system) – – Console-based banking simulation
+- 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator) – Calculates academic results
+- 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game) – Logic-based game
+- ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors) – Interactive command-line game
 
 ### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 - Arduino-based project controlled via hand gestures  
