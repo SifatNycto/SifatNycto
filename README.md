@@ -27,25 +27,17 @@
 ---
 
 ## 📂 Projects
-
 ### 🔬 Mini Projects Lab  
-🔗 https://github.com/SifatNycto/mini-projects-lab  
-
 - 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system) – Console-based banking simulation  
 - 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator) – Calculates academic results  
 - 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game) – Logic-based logic game  
 - ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors) – Interactive command-line game  
 
-### 🚗 Gesture Controlled Car  
-🔗 https://github.com/SifatNycto/gesture-controlled-car  
+### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 - Arduino-based project controlled via hand gestures  
 
-### 🤖 AI Generated Web Apps  
-🔗 https://github.com/SifatNycto/AI_made_things  
+### 🤖 [AI Generated Web Apps](https://github.com/SifatNycto/AI_made_things)
 - Collection of web apps built using Google AI Studio  
-
-### 📘 CS50 Problem Sets  
-- Solutions and practice from Harvard's CS50 course  
 
 ---
 
@@ -59,7 +51,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
 
