@@ -1,5 +1,7 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
+### Aspiring Software Engineer | Problem Solver | Beginner Competitive Programmer | AI/ML Enthusiast
+
 🎓 CSE Student  
 💻 Passionate about programming and problem solving  
 🚀 Currently learning **C, C++ & CS50**  
