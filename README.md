@@ -26,16 +26,14 @@
 
 ## 📂 Projects
 ### 🔬 Mini Projects Lab  
-- 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system) – – Console-based banking simulation
-- 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator) – Calculates academic results
-- 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game) – Logic-based game
-- ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors) – Interactive command-line game
+- 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
+- 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
+- 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
+- ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
 
 ### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
-- Arduino-based project controlled via hand gestures  
 
 ### 🤖 [AI Generated Web Apps](https://github.com/SifatNycto/AI_made_things)
-- Collection of web apps built using Google AI Studio  
 
 ---
 
