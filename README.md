@@ -25,7 +25,7 @@
 ---
 
 ## 📂 Projects
-### 🔬 Mini Projects Lab  
+### 🔬 [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
 - 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
 - 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
 - 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
