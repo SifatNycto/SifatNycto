@@ -1,10 +1,7 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
-### Aspiring Software Engineer | Problem Solver | Beginner Competitive Programmer | AI/ML Enthusiast
+### 💻 CSE Student | Aspiring Software Engineer | Problem Solver | Beginner Competitive Programmer | AI/ML Enthusiast
 
-🎓 CSE Student  
-💻 Passionate about programming and problem solving  
-🚀 Currently learning **C, C++ & CS50**  
 🌙 Nyctophile — I love coding at night 
 
 ``` while(!expert) { learn(); code(); build(); } ```
@@ -19,26 +16,36 @@
 - Problem Solving (beginner)
 
 ---
-
-## 📚 Currently Learning
-- CS50x
-- Data Structures
-- Algorithms
-- Object Oriented Programming
-- STL
-- Python
+## 🧠 Learning & Focus
+- 📘 CS50x
+- 🔹 Data Structures & Algorithms (DSA)
+- 🔹 Object-Oriented Programming (OOP)
+- 🔹 STL (Standard Template Library)
+- 🐍 Python
+- ✨ Writing clean and efficient code
 
 ---
 
 ## 📂 Projects
-- [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
-  - [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
-  - [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
-  - [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
-  - [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
-- [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
-- [Web Apps by Google AI Studio](https://github.com/SifatNycto/AI_made_things)
-- CS50 Problem Sets
+
+### 🔬 Mini Projects Lab  
+🔗 https://github.com/SifatNycto/mini-projects-lab  
+
+- 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system) – Console-based banking simulation  
+- 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator) – Calculates academic results  
+- 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game) – Logic-based logic game  
+- ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors) – Interactive command-line game  
+
+### 🚗 Gesture Controlled Car  
+🔗 https://github.com/SifatNycto/gesture-controlled-car  
+- Arduino-based project controlled via hand gestures  
+
+### 🤖 AI Generated Web Apps  
+🔗 https://github.com/SifatNycto/AI_made_things  
+- Collection of web apps built using Google AI Studio  
+
+### 📘 CS50 Problem Sets  
+- Solutions and practice from Harvard's CS50 course  
 
 ---
 
