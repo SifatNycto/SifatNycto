@@ -1,7 +1,7 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
 ### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
-```python
+```javascript
 while (!expert) {
     learn();
     code();
