@@ -1,6 +1,14 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
 ### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
+```cpp
+while (!expert) {
+    learn();
+    code();
+    build();
+}
+// - Nycto
+```
 
 ``` while(!expert) { learn(); code(); build(); } ```
 
