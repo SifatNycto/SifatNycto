@@ -49,8 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<!--![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)-->
-![Sifat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
+[Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=github_dark)
 
