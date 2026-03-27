@@ -70,3 +70,9 @@ while (!expert) {
 --- 
 [![](https://visitcount.itsvg.in/api?id=SifatNycto&icon=5&color=0)](https://visitcount.itsvg.in)
 -->
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/SifatNycto/SifatNycto/blob/output/github-contribution-grid-snake-dark.svg)
