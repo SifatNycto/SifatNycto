@@ -1,7 +1,7 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
 ### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
-```javascript
+```cpp
 while (!expert) {
     learn();
     code();
@@ -9,9 +9,6 @@ while (!expert) {
 }
 // - Nycto
 ```
-
-``` while(!expert) { learn(); code(); build(); } ```
-
 ---
 
 ## 🚀 Skills
