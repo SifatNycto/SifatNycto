@@ -75,4 +75,6 @@ while (!expert) {
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/SifatNycto/SifatNycto/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/SifatNycto/SifatNycto/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
