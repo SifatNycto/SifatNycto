@@ -60,7 +60,9 @@ while (!expert) {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SifatNycto&theme=github_dark"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SifatNycto&theme=github_dark"/>
+</p>
 
 ---
 
