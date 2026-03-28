@@ -66,6 +66,12 @@ while (!expert) {
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=dracula)
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=merko)
 ![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=highcontrast)
+![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=highcontrast)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=shades-of-purple)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=onedark)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff)
 ![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&bg_color=000000&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc)
 
 ![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
