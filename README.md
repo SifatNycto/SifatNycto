@@ -61,6 +61,9 @@ while (!expert) {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SifatNycto&theme=github_dark"/>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=tokyonight)
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
