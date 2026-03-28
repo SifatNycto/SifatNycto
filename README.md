@@ -1,6 +1,6 @@
 # Hi 👋 I'm **Mehedi Hasan Sifat**
 
-### 💻 CSE Student | Aspiring Software Engineer | Problem Solver
+### 💻 CSE Undergraduate | Aspiring Software Engineer | Problem Solver
 ```cpp
 while (!expert) {
     learn();
