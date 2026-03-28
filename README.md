@@ -60,6 +60,8 @@ while (!expert) {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=donut&theme=github_dark)
+
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
