@@ -63,9 +63,12 @@ while (!expert) {
 
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
-![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=dracula)
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=nightowl)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=onedark
+)
 
 ![Sifat's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&bg_color=000000&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc)
 
