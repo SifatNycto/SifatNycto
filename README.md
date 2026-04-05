@@ -144,7 +144,11 @@ while (!expert) {
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SifatNycto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
