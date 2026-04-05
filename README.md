@@ -52,15 +52,14 @@ while (!expert) {
 
 ---
 -->
-
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,markdown" />
 </p>
 
-### 🛠 Tools
+<h3 align="center">🛠 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,arduino" />
   <br/>
@@ -70,7 +69,7 @@ while (!expert) {
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
 
-### 🌐 Platforms
+<h3 align="center">🌐 Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 </p>
