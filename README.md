@@ -69,7 +69,7 @@ while (!expert) {
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
 
-<h3 align="center">🌐 Platforms</h3>
+<h3 align="center">🚀 Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 </p>
