@@ -117,15 +117,30 @@ while (!expert) {
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-
+-->
 <!--[Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)-->
+
+<!--
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
+
+</p>
 
 ---
 
