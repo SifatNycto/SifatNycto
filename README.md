@@ -52,9 +52,9 @@ while (!expert) {
 
 ---
 
-## ⚙️ Languages & Tools
+## ⚙️ Tech Stack (Language+Platforms+Tools)
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=python" />
@@ -63,19 +63,9 @@ while (!expert) {
   <img src="https://skillicons.dev/icons?i=markdown" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
----
-
-## 🛠 Platforms & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</p>
-
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" /> 
+  <img src="https://skillicons.dev/icons?i=netlify" /><!--netlify-->
+  <img src="https://skillicons.dev/icons?i=vercel" /><!--vercel-->
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=raylib&logoColor=black"/>
