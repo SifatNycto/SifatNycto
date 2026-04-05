@@ -52,6 +52,30 @@ while (!expert) {
 
 ---
 
+## ⚙️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,js,git,github,arduino" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <!--[Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)-->
