@@ -7,7 +7,7 @@ while (!expert) {
     code();
     build();
 }
-// - Nycto
+// --- Nycto
 ```
 ---
 
