@@ -12,9 +12,10 @@ while (!expert) {
 ---
 
 ## 🚀 Skills
-- C
-- C++
-- Git
+- C/C++
+- Python
+- Git & GitHub
+- Bash Scripting
 - Arduino
 - Problem Solving (Learning & Improving)
 
