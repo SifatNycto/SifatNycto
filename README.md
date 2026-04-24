@@ -32,6 +32,9 @@ while (!expert) {
 ---
 
 ## 📂 Projects
+
+### 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
+
 ### 🔬 [Mini Projects Lab](https://github.com/SifatNycto/mini-projects-lab)
 - 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
 - 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
@@ -39,8 +42,6 @@ while (!expert) {
 - ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
 
 ### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
-
-### 🤖 [AI Generated Web Apps](https://github.com/SifatNycto/AI_made_things)
 
 ---
 <!--
