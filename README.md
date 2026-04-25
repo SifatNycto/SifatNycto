@@ -107,7 +107,7 @@ while (!expert) {
 
 <h3 align="center">🛠 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
   <br/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
@@ -118,9 +118,7 @@ while (!expert) {
 
 <h3 align="center">🔄 Version Control & CI/CD</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
 <h3 align="center">🚀 Platforms</h3>
