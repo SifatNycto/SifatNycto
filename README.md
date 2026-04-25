@@ -170,7 +170,7 @@ while (!expert) {
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=github" />
 <br>
 <img src="https://streak-stats.demolab.com/?user=SifatNycto&theme=github_dark" />
 <br>
