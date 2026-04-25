@@ -109,7 +109,7 @@ while (!expert) {
 
 <h3 align="center">🛠 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino,vscode" />
   <br/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
