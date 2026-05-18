@@ -13,6 +13,7 @@ while (!expert) {
 
 ## 🚀 Skills
 - C/C++
+- Object Oriented Programming
 - Python
 - Git & GitHub
 - Bash Scripting
