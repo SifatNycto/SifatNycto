@@ -61,7 +61,11 @@ while (!expert) {
 ## 🌐 Connect with me
 
 <p align="center">
-
+<p align="center">
+  <a href="https://linkedin.com/in/mehedihasan-sifat">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 <a href="https://linkedin.com/in/mehedihasan-sifat">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
