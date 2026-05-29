@@ -45,15 +45,19 @@ while (alive) {
 ## 📂 Featured Projects
 
 - 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
-  hello
+  - Personal voice assistant built with Python.
 - 🎮 [XanderCross - Game Hub](https://github.com/SifatNycto/XanderCross)
-  - hello
+  - A game launcher and management application.
 - 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
-  -- hello
+  - Console-based banking management system developed in C.
 - 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
+  - Academic utility for calculating CGPA and academic performance.
 - 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
+  - Interactive command-line game built for programming practice.
 - ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
+  - Classic game implementation demonstrating programming fundamentals.
 - 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
+  - Arduino (C++ Coded) based electrical car project.
 
 ---
 
