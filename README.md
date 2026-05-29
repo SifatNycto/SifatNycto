@@ -63,10 +63,10 @@ while (!expert) {
 <p align="center">
 
 <a href="https://linkedin.com/in/mehedihasan-sifat">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/SifatNyctophile">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white"/>
 </a>
 <a href="mailto:sftmhd@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
