@@ -1,4 +1,7 @@
-# Hi 👋 I'm **Mehedi Hasan Sifat**
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=999999&color=00FFFF&vCenter=true&repeat=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan+Sifat" alt="Typing SVG" />
+</p>
+<!--# Hi 👋 I'm **Mehedi Hasan Sifat**-->
 
 ### 💻 CSE Undergraduate | Aspiring Software Engineer | Problem Solver
 ```cpp
