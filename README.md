@@ -35,7 +35,7 @@ while (!expert) {
 ## 📂 Projects
 
 ### 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
-### 🎮 [Game Hub](https://github.com/SifatNycto/XanderCross)
+### 🎮 [XanderCross - Game Hub](https://github.com/SifatNycto/XanderCross)
 ### 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
 ### 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
 ### 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
