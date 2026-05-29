@@ -115,9 +115,9 @@ while (!expert) {
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SifatNycto&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SifatNycto&theme=github_dark)
---->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifatNycto&layout=compact&theme=github_dark)
+--->
 
 ## 📊 GitHub Stats
 
@@ -133,19 +133,17 @@ while (!expert) {
 
 ---
 
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SifatNycto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SifatNycto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 --- 
 [![](https://visitcount.itsvg.in/api?id=SifatNycto&icon=5&color=0)](https://visitcount.itsvg.in)
--->
+
 
 ---
 
