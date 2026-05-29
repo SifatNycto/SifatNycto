@@ -61,29 +61,25 @@ while (!expert) {
 ## 🌐 Connect with me
 
 <p align="center">
-<p align="center">
-  <a href="https://linkedin.com/in/mehedihasan-sifat">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+
 <a href="https://linkedin.com/in/mehedihasan-sifat">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/SifatNyctophile">
   <img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white"/>
 </a>
 <a href="mailto:sftmhd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://facebook.com/sifat.nycto">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://instagram.com/sifat.nycto">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://reddit.com/user/Excellent_Spare3464">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=reddit&logoColor=white"/>
 </a>
 <!--
 <a href="https://pinterest.com/sifat_nycto">
