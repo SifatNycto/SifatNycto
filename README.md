@@ -42,14 +42,13 @@ while (!expert) {
 
 ## 📂 Projects
 
-### 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
-### 🎮 [XanderCross - Game Hub](https://github.com/SifatNycto/XanderCross)
-### 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
-### 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
-### 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
-### ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
-
-### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
+- ### 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
+- ### 🎮 [XanderCross - Game Hub](https://github.com/SifatNycto/XanderCross)
+- ### 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
+- ### 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
+- ### 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
+- ### ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
+- ### 🚗 [Gesture Controlled Car](https://github.com/SifatNycto/gesture-controlled-car)
 
 ---
 <!--
