@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=999999&color=00FFFF&vCenter=true&repeat=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan+Sifat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=999999&color=58A6FF&vCenter=true&repeat=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan+Sifat" />
 </p>
 <!--# Hi 👋 I'm **Mehedi Hasan Sifat**-->
 
