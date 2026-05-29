@@ -20,24 +20,23 @@ while (!expert) {
 
 ## 🚀 Skills
 - C/C++
-- Object Oriented Programming
 - Python
+- Object Oriented Programming
 - Git & GitHub
 - Bash Scripting
 - Arduino
-- Problem Solving (Learning & Improving)
+- Problem Solving
 
 ---
 
-## 🧠 Learning & Focus
-
-- 📘 CS50x
-- 🔹 Data Structures & Algorithms
-- 🔹 Competitive Programming
-- 🔹 Object-Oriented Programming
-- 🔹 STL
-- 🐍 Python
-- ✨ Writing clean and efficient code
+## 🧠 Current Focus
+- Data Structures & Algorithms
+- Competitive Programming
+- STL (Standard Template Library)
+- Software Engineering Fundamentals
+- Python Development
+- CS50x
+- Writing Clean & Efficient Code
 
 ---
 
