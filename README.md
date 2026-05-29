@@ -45,8 +45,11 @@ while (alive) {
 ## 📂 Featured Projects
 
 - 🤖 [Jarvis](https://github.com/SifatNycto/Jarvis)
+  hello
 - 🎮 [XanderCross - Game Hub](https://github.com/SifatNycto/XanderCross)
+  - hello
 - 🏦 [Banking System](https://github.com/SifatNycto/mini-projects-lab/tree/main/banking-system)
+  -- hello
 - 🎓 [CGPA Calculator](https://github.com/SifatNycto/mini-projects-lab/tree/main/cgpa-calculator)
 - 🎮 [Number Guessing Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/number-guessing-game)
 - ✊ [Rock-Paper-Scissors Game](https://github.com/SifatNycto/mini-projects-lab/tree/main/rock-paper-scissors)
