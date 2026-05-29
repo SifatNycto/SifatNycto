@@ -8,10 +8,10 @@
 
 ### 💻 CSE Undergraduate | Aspiring Software Engineer | Problem Solver
 ```cpp
-while (!expert) {
+while (alive) {
     learn();
     code();
-    build();
+    improve();
 }
 // --- Nycto
 ```
