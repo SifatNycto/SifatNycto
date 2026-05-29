@@ -113,7 +113,7 @@ while (!expert) {
 <h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sqlite,html,markdown" />
-  <br>
+  <br/>
   <img src="https://img.shields.io/badge/YAML-%23cb171e.svg?style=flat&logo=yaml&logoColor=white"/>
 </p>
 
@@ -137,30 +137,6 @@ while (!expert) {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 </p>
-
-<!---
-## ⚙️ Tech Stack
-
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,markdown" />
-</p>
-
-<h3 align="center">🛠 Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,arduino" />
-  <br/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=raylib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-</p>
-
-<h3 align="center">🚀 Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
-</p>
---->
 
 ---
 <!---
