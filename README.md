@@ -26,10 +26,12 @@ while (!expert) {
 ---
 
 ## 🧠 Learning & Focus
+
 - 📘 CS50x
-- 🔹 Data Structures & Algorithms (DSA)
-- 🔹 Object-Oriented Programming (OOP)
-- 🔹 STL (Standard Template Library)
+- 🔹 Data Structures & Algorithms
+- 🔹 Competitive Programming
+- 🔹 Object-Oriented Programming
+- 🔹 STL
 - 🐍 Python
 - ✨ Writing clean and efficient code
 
