@@ -65,18 +65,23 @@ while (!expert) {
 <a href="https://linkedin.com/in/mehedihasan-sifat">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://x.com/SifatNyctophile">
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="mailto:sftmhd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://facebook.com/sifat.nycto">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://instagram.com/sifat.nycto">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://x.com/SifatNyctophile">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
+
 <a href="https://reddit.com/user/Excellent_Spare3464">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
+<!--
 <a href="https://pinterest.com/sifat_nycto">
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
@@ -92,9 +97,7 @@ while (!expert) {
 <a href="https://twitch.tv/sifat_nycto">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
-<a href="mailto:sftmhd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+-->
 
 </p>
 
