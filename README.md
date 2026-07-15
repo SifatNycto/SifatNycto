@@ -96,7 +96,7 @@ while (alive) {
 
 <h3 align="center">🛠 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,arduino" />
   <br/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white"/>
