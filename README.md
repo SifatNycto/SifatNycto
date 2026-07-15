@@ -110,10 +110,10 @@ while (alive) {
   <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 </p>
 
-<h3 align="center">🚀 Platforms</h3>
+<!-- <h3 align="center">🚀 Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" />
-</p>
+</p> -->
 
 ---
 
