@@ -89,7 +89,7 @@ while (alive) {
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sqlite,html,markdown" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,css,sqlite,html,markdown" />
   <br/>
   <img src="https://img.shields.io/badge/YAML-%23cb171e.svg?style=flat&logo=yaml&logoColor=white"/>
 </p>
