@@ -37,7 +37,7 @@ while (alive) {
 - STL (Standard Template Library)
 - Software Engineering Fundamentals
 - Python Development
-- CS50x (completed)
+- CS50x ```(completed)```
 - Writing Clean & Efficient Code
 
 ---
